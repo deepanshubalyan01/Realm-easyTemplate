@@ -4,6 +4,7 @@ plugins {
 
 apply plugin: "realm-android"
 android {
+
     namespace 'com.example.newapp'
     compileSdk 33
 
